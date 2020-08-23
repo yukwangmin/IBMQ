@@ -13,7 +13,7 @@ qiskit-ignis              0.3.2
 qiskit-terra              0.14.2 
 
 
-To draw MLQAE circuits, run "mlqae_circuit_draw.ipynb".
+To draw MLQAE circuits, run "mlqae_circuit_draw.ipynb". 
 To run MLQAE for Monte Carlo integration described in ["Quantum amplitude estimation algorithms on IBM quantum devices"](https://arxiv.org/abs/2008.02102), run "mlqae_run.ipynb".
 
 
