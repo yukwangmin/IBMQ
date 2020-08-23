@@ -5,7 +5,7 @@ To draw MLQAE circuits, run "mlqae_circuit_draw.ipynb".
 
 The codes in this directory are used in paper ["Quantum amplitude estimation algorithms on IBM quantum devices"](https://arxiv.org/abs/2008.02102) for MLQAE simulations.
 
-The codes are tested on following Qiskit versions.
+The codes are tested on following Qiskit versions.  
 qiskit                    0.19.5  
 qiskit-aer                0.5.2  
 qiskit-aqua               0.7.3  
